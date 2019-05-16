@@ -1,0 +1,45 @@
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.deps.json
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.runtimeconfig.json
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.runtimeconfig.dev.json
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.dll
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.pdb
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.AssemblyInfoInputs.cache
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.AssemblyInfo.cs
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.dll
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.pdb
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csprojAssemblyReference.cache
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.AssemblyInfoInputs.cache
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.AssemblyInfo.cs
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.deps.json
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.runtimeconfig.json
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.runtimeconfig.dev.json
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.dll
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.pdb
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\Exception Logger.dll
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\Exception Logger.pdb
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csproj.CopyComplete
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.dll
+C:\Users\pushp.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.pdb
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\Exception Logger.dll
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\Exception Logger.pdb
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csprojAssemblyReference.cache
+C:\Users\sandeep13.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csproj.CopyComplete
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.deps.json
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.runtimeconfig.json
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.runtimeconfig.dev.json
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.dll
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\InfytainmentDAL.pdb
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\Exception Logger.dll
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\bin\Debug\netcoreapp2.1\Exception Logger.pdb
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csprojAssemblyReference.cache
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.AssemblyInfoInputs.cache
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.AssemblyInfo.cs
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.csproj.CopyComplete
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.dll
+C:\Users\roctim.trn\source\repos\Infytainment\InfytainmentDAL\obj\Debug\netcoreapp2.1\InfytainmentDAL.pdb
