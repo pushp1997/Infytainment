@@ -1,2 +1,2 @@
 # Infytainment
-Major
+Major Project at Infosys.
